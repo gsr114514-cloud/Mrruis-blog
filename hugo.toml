@@ -1,4 +1,4 @@
-baseURL = 'https://你的用户名.pages.dev/' # 之后 Cloudflare 会给你这个域名
+baseURL = 'https://gsr114514.pages.dev/' # 之后 Cloudflare 会给你这个域名
 languageCode = 'zh-cn'
 title = '我的极客空间'
 theme = 'PaperMod'
