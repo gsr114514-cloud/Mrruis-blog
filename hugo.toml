@@ -1,6 +1,6 @@
 baseURL = "https://mrruis-blog.pages.dev/"
 languageCode = "zh-cn"
-title = "Sleepy的博客"
+title = "Mr.Ruis的博客"
 theme = "PaperMod"
 
 [params]
@@ -22,3 +22,19 @@ theme = "PaperMod"
     name = "文章"
     url = "/posts/"
     weight = 10
+
+[[params.socialIcons]]
+    name = "bilibili"
+    url = "https://space.bilibili.com/3461569883147060"
+
+[[params.socialIcons]]
+    name = "douyin"
+    url = "https://www.douyin.com/user/你的ID"
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/你的用户名"
+
+[[params.socialIcons]]
+    name = "email"
+    url = "mailto:你的邮箱@example.com"
