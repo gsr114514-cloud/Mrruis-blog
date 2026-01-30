@@ -9,14 +9,9 @@ theme = "PaperMod"
 [params.profileMode]
     enabled = true
     title = "Mr.Ruis"
-    subtitle = "技术记录与生活随笔。" 
+    subtitle = "技术记录与生活随笔。"
     displayname = "Mr.Ruis"
-    
-    [params.profileMode.imageUrl]
-        url = "/avatar.jpg"
-        width = 474
-        height = 463
-
-[[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/gsr114514-cloud"
+    # 注意这里：直接写 imageUrl = "路径"，不要再写子项目
+    imageUrl = "/avatar.jpg" 
+    imageWidth = 120
+    imageHeight = 120
