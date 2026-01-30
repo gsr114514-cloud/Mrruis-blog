@@ -5,3 +5,18 @@ theme = "PaperMod"
 
 [params]
     env = "production" # 强制告诉 Hugo 现在是正式环境
+
+[params.profileMode]
+    enabled = true
+    title = "Mr.Ruis"
+    subtitle = "技术记录与生活随笔。" 
+    displayname = "Mr.Ruis"
+    
+    [params.profileMode.imageUrl]
+        url = "/avatar.jpg"
+        width = 474
+        height = 463
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/gsr114514-cloud"
