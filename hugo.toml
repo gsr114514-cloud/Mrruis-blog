@@ -1,10 +1,7 @@
-baseURL = "mrruis-blog.pages.dev/"
-languageCode = 'zh-cn'
-title = '我的极客空间'
-theme = 'PaperMod'
+baseURL = "https://mrruis-blog.pages.dev/"
+languageCode = "zh-cn"
+title = "我的极客空间"
+theme = "PaperMod"
 
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "文章"
-    url = "/posts/"
+[params]
+    env = "production" # 强制告诉 Hugo 现在是正式环境
