@@ -1,6 +1,6 @@
 baseURL = "https://mrruis-blog.pages.dev/"
 languageCode = "zh-cn"
-title = "我的极客空间"
+title = "Sleepy的博客"
 theme = "PaperMod"
 
 [params]
