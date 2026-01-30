@@ -1,4 +1,4 @@
-baseURL = "mrruis-blog.pages.dev"
+baseURL = "mrruis-blog.pages.dev/"
 languageCode = 'zh-cn'
 title = '我的极客空间'
 theme = 'PaperMod'
