@@ -28,8 +28,8 @@ theme = "PaperMod"
     url = "https://space.bilibili.com/3461569883147060"
 
 [[params.socialIcons]]
-    name = "douyin"
-    url = "https://www.douyin.com/user/93907670014"
+    name = "telegram" 
+    url = "https://t.me/SleepY8964"
 
 [[params.socialIcons]]
     name = "github"
